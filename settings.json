@@ -1,0 +1,13 @@
+{
+	"exchanges": {
+		"plugins": {
+			"current": {
+				"transfer": "fake-wallet"
+			},
+			"settings": {
+				"fake-wallet": {
+				}
+			}
+		}
+	}
+}

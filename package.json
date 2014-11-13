@@ -1,0 +1,16 @@
+{
+	"name": "lamassu-fake-wallet",
+	"version": "0.1.0",
+	"description": "Lamassu fake wallet for testing",
+	"main": "lib/fake-wallet.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/whitslack/lamassu-fake-wallet.git"
+	},
+	"keywords": [
+		"Lamassu",
+		"mock",
+		"test"
+	],
+	"license": "unlicense"
+}
